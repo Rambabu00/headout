@@ -1,0 +1,15 @@
+{
+  "name": "headout",
+  "version": "1.0.0",
+  "description": "this is a assignment from headout for software role",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "R A M B A B U  K A D A G A L A",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
